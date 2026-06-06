@@ -56,8 +56,10 @@ Role   : Full-Stack Developer     Focus   : Healthcare · AI Automation · SaaS
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=thisarsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&cache_seconds=1800" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisarsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisarsh&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisarsh&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisarsh&theme=tokyonight" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thisarsh&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8)](https://git.io/streak-stats)
 
