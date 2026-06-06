@@ -1,25 +1,22 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Utkarsh%20Shukla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder.%20Thinker.%20Shipper.&descAlignY=58&descSize=18&descColor=7dd3fc" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Healthcare+Tech+Builder+%F0%9F%8F%A5;AI+Automation+Engineer+%F0%9F%A4%96;SaaS+Product+Developer+%F0%9F%9B%A0%EF%B8%8F;B.Tech+CSE-AI+@+GLBITM+%F0%9F%8E%93" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I%27m%20Utkarsh%20Shukla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder.%20Thinker.%20Shipper.&descAlignY=58&descSize=18&descColor=7dd3fc" />
 
 <br/>
 
-<!-- Profile Badge Row -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Healthcare+Tech+Builder;AI+Automation+Engineer;SaaS+Product+Developer;B.Tech+CSE-AI+%40+GLBITM)](https://git.io/typing-svg)
+
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=thisarsh&color=0ea5e9&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/thisarsh?label=Follow&style=flat-square&color=0ea5e9)](https://github.com/thisarsh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/this_arsh__/)
+[![GitHub followers](https://img.shields.io/github/followers/thisarsh?label=Follow&style=flat-square&color=0ea5e9&logo=github)](https://github.com/thisarsh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/this_arsh__/)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 Name     : Utkarsh Shukla
@@ -30,62 +27,59 @@ Location : Uttar Pradesh, India
 Status   : Building products that solve real problems
 ```
 
-> I don't just write code. I build systems — from clinic management platforms to AI-powered WhatsApp factories.  
+> I don't just write code — I build systems.  
 > My work sits at the intersection of **healthcare**, **automation**, and **student-focused software**.
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 MediNest
-*Healthcare Technology Ecosystem*
+### MediNest — Healthcare Tech Ecosystem
 
 Digitizing clinic operations end-to-end:
-- 📋 Smart prescription generation
-- 🏨 Clinic workflow management
-- 👨‍⚕️ Doctor-focused digital tools
-- ⚙️ Healthcare automation solutions
+- Smart prescription generation
+- Clinic workflow management  
+- Doctor-focused digital tools
+- Healthcare automation solutions
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Bot-The-Builder (BTB)
-*Multi-Tenant WhatsApp Bot Factory*
+### Bot-The-Builder (BTB) — WhatsApp Bot Factory
 
-AI-powered bot infrastructure for businesses:
-- 💬 AI-powered WhatsApp automation
-- 🏗️ Multi-client architecture
-- 🔁 Dedicated bot instances per client
-- ☁️ SaaS-ready + auto-deployment
+Multi-tenant AI-powered bot infrastructure:
+- AI-powered WhatsApp automation
+- Multi-client architecture
+- Dedicated bot instances per client
+- SaaS-ready + automated deployment
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 CollegePredictor / NANS
-*Student Counselling Platform*
+### CollegePredictor / NANS — Student Counselling
 
 Helping aspirants navigate admissions:
-- 📊 College prediction engine
-- 📝 Choice filling guidance
-- 🗺️ Counselling insights
-- 📈 Personalized dashboards
+- College prediction engine
+- Choice filling guidance
+- Counselling insights
+- Personalized dashboards
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Current Focus
-*What I'm actively leveling up in*
+### Current Focus
 
-- 🔧 Backend Engineering & System Design
-- 🏛️ SaaS Architecture Patterns
-- 🤖 AI Automation Pipelines
-- 🌐 Full-Stack Product Development
+Actively leveling up in:
+- Backend Engineering & System Design
+- SaaS Architecture Patterns
+- AI Automation Pipelines
+- Full-Stack Product Development
 
 </td>
 </tr>
@@ -93,7 +87,7 @@ Helping aspirants navigate admissions:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -115,48 +109,55 @@ Helping aspirants navigate admissions:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Databases & Tools**
+**Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisarsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisarsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thisarsh&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thisarsh&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Experience & Activities
+## Experience & Activities
 
-| 🏷️ | Role / Achievement |
-|---|---|
-| 🎯 | Technical Member — **Vividhata Club** |
-| 🛠️ | Member — **GL Bajaj Tech Team** |
-| 💡 | **200+ DSA Problems** Solved on LeetCode |
-| 🏗️ | Full-Stack Application Development |
-| 🚀 | SaaS Product Development |
+| Role / Achievement |
+|---|
+| Technical Member — **Vividhata Club** |
+| Member — **GL Bajaj Tech Team** |
+| **200+ DSA Problems** Solved on LeetCode |
+| Full-Stack Application Development |
+| SaaS Product Development |
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -170,7 +171,6 @@ Helping aspirants navigate admissions:
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
 *"Building at the intersection of healthcare, automation & education — one commit at a time."*
